@@ -1,5 +1,6 @@
 # Robot-Game
 vPython robot game created for CS5: Intro to CS/Bio course
+Note that this project uses the vPython 3D graphics package: http://vpython.org
 
 R2 Droids Versus the Ran-Troopers
 by Wyatt Cooper
